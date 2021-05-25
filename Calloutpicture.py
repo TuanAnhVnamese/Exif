@@ -2,7 +2,7 @@ import piexif
 from PIL import Image
 import os
 from fractions import *
-#brand test
+#main
 
 #                                               Bild importieren
 
